@@ -25,7 +25,7 @@
 </div>
 
 ###
-
+<!--
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -37,5 +37,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-plain-wordmark.svg" height="40" alt="terraform logo"  />
 </div>
+-->
+###
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,vscode,linux,azure,docker,kubernetes,terraform,grafana" />
+  </a>
+</p>
 
 ###
+
