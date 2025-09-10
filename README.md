@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,vscode,linux,azure,docker,kubernetes,terraform,grafana" />
+    <img src="https://skillicons.dev/icons?i=linux,py,vscode,azure,docker,kubernetes,terraform,grafana" />
   </a>
 </p>
 
