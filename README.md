@@ -15,7 +15,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=atiliofranca&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <!--<img src="https://streak-stats.demolab.com?user=atiliofranca&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />-->
+  <img alt="GitHub Stats" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atiliofranca&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" /> 
 </div>
 
 ###
